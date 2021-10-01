@@ -43,21 +43,13 @@
 # PROJECTS
 ## TEAM PROJECT
 ### Programmers K-digital training Autonomous-driving Dev Course
-:point_right: [First Project](https://github.com/PROGRAMMERS-TEAM-C/Project1)
-:point_right: [Second Project](https://github.com/PROGRAMMERS-TEAM-C/Project2)
-:point_right: [Third Project](https://github.com/PROGRAMMERS-TEAM-C/Project3)
-:point_right: [Fourth Project](https://github.com/PROGRAMMERS-TEAM-C/Project4)
-:point_right: [Simulator SLAM Project](https://github.com/PROGRAMMERS-TEAM-C/Project5)
+:point_right: [First Competition](https://github.com/PROGRAMMERS-TEAM-C/Project1)<br>
+  - 초음파 센서와 ar태그를 이용한 맵 주행 및 주차 미션 프로젝트(시뮬레이터 기반)<br>
+:point_right: [Second Project](https://github.com/PROGRAMMERS-TEAM-C/Project2)<br>
+:point_right: [Third Project](https://github.com/PROGRAMMERS-TEAM-C/Project3)<br>
+:point_right: [Fourth Project](https://github.com/PROGRAMMERS-TEAM-C/Project4)<br>
+:point_right: [Simulator SLAM Project](https://github.com/PROGRAMMERS-TEAM-C/Project5)<br>
 :point_right: [Final Project](https://github.com/choyoungjin0928/Final_Project_TeamB) 
-
-### 전역일 계산기
-:point_right: [ArmyGo](https://github.com/choyoungjin0928/ArmyGo) 
-
-### 수면에 도움을 주는 홈페이지 제작
-:point_right: [SleepPatternMakerthon](https://github.com/choyoungjin0928/SleepPatternMakerthon) 
-
-### MBTI 유형을 알려주는 홈페이지 제작
-:point_right: [MBTI](https://github.com/choyoungjin0928/MBTI) 
 
 ## PERSONAL PROJECT
 
