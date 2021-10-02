@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Cho%20Youngjin%20Jin&fontSize=90&animation=fadeIn&fontAlignY=30&desc=자율주행%20개발자를%20꿈꾸는%20대학생&descAlignY=51&descAlign=62)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCUN-bjy?&style=flat-square)](https://hits.seeyoufarm.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youngjin-cho-429b77217/) [
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2314354C.svg?&style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/choyoungjin0928) 
-노션, velog추가
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoyoungjin0928%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youngjin-cho-429b77217/) 
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2314354C.svg?&style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/choyoungjin0928) 
+[<img alt="Notion" src ="https://img.shields.io/badge/Notion%20-%2314354C.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>](https://bustling-quicksand-446.notion.site/a34498e28abe4c87ae2a8f9fe9798c8b?v=acabe61bea82454eaf87e103c636b32c) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@agapao1234) 
+
 
 <h1 align="left">🛠 Tech Stack 🛠</h1>
 
