@@ -6,6 +6,13 @@
 <a href=https://bustling-quicksand-446.notion.site/a34498e28abe4c87ae2a8f9fe9798c8b?/>![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@agapao1234) 
 
+<h1 align="left"> Interests </h1>
+
+![Autonomous-Driving](https://img.shields.io/badge/AutonomousDriving-%23D00000.svg?style=for-the-badge&logo=AutonomousDriving&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-%23EE4C2C.svg?style=for-the-badge&logo=SLAM&logoColor=white)
+![ROBOTICS](https://img.shields.io/badge/ROBOTICS-%230A0FF9.svg?style=for-the-badge&logo=ROBOTICS&logoColor=white)
+![COMPUTER-VISION](https://img.shields.io/badge/COMPUTERVISION-%23FF6F00.svg?style=for-the-badge&logo=COMPUTERVISION&logoColor=white)
+![DEEPLEARNING](https://img.shields.io/badge/DEEPLEARNING-%23white.svg?style=for-the-badge&logo=DEEPLEARNING&logoColor=white)
 
 <h1 align="left">🛠 Tech Stack 🛠</h1>
 
