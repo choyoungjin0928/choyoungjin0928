@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Cho%20Youngjin%20Jin&fontSize=90&animation=fadeIn&fontAlignY=30&desc=자율주행%20개발자를%20꿈꾸는%20대학생&descAlignY=51&descAlign=62)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoyoungjin0928%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youngjin-cho-429b77217/) 
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2314354C.svg?&style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/choyoungjin0928) 
-[<img alt="Notion" src ="https://img.shields.io/badge/Notion%20-%2314354C.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>](https://bustling-quicksand-446.notion.site/a34498e28abe4c87ae2a8f9fe9798c8b?v=acabe61bea82454eaf87e103c636b32c) 
+<a href=https://www.linkedin.com/in/youngjin-cho-429b77217/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href=https://github.com/choyoungjin0928/>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a href=https://bustling-quicksand-446.notion.site/a34498e28abe4c87ae2a8f9fe9798c8b?/>![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@agapao1234) 
 
 
@@ -21,36 +20,33 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 </p>
 <h3>Libraries & Frameworks</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/ROS-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Tensorflow-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Pytorch-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MatplotLib-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Keras-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-</p>
+
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/MatplotLib-%23EE4C2C.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
 <h3>OS</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/WINDOWS-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/LINUX-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/UBUNTU-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/RASBIAN-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-</p>
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 <h3>HARDWARE</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/RASPBERRYPI-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/ARDUINO-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/XYCAR-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-</p><br>
+
+  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  ![Xycar](https://img.shields.io/badge/-xycar-FCC624?style=for-the-badge&logo=amp)
+<br>
 
 # PROJECTS
 ## TEAM PROJECT
 ### Programmers K-digital training Autonomous-driving Dev Course
-:point_right: [First Competition](https://github.com/PROGRAMMERS-TEAM-C/Project1)<br>
-  - 초음파 센서와 ar태그를 이용한 맵 주행 및 주차 미션 프로젝트(시뮬레이터 기반)<br>
-:point_right: [Second Project](https://github.com/PROGRAMMERS-TEAM-C/Project2)<br>
-:point_right: [Third Project](https://github.com/PROGRAMMERS-TEAM-C/Project3)<br>
-:point_right: [Fourth Project](https://github.com/PROGRAMMERS-TEAM-C/Project4)<br>
+:point_right: [First Competition - Kookmin Univ. Competition](https://github.com/PROGRAMMERS-TEAM-C/Project1)<br>
+:point_right: [Second Project - Programmers Line Following Project](https://github.com/PROGRAMMERS-TEAM-C/Project2)<br>
+:point_right: [Third Project - Programmers DQN Project](https://github.com/PROGRAMMERS-TEAM-C/Project3)<br>
+:point_right: [Fourth Project - Programmers Mission Execution Project](https://github.com/PROGRAMMERS-TEAM-C/Project4)<br>
 :point_right: [Simulator SLAM Project](https://github.com/PROGRAMMERS-TEAM-C/Project5)<br>
 :point_right: [Final Project](https://github.com/choyoungjin0928/Final_Project_TeamB) 
 
