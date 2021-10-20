@@ -8,6 +8,7 @@
 
 <h1 align="left"> Interests </h1>
 
+![Embedded](https://img.shields.io/badge/Embedded-FCC624.svg?style=for-the-badge&logo=Embedded&logoColor=white)
 ![Autonomous-Driving](https://img.shields.io/badge/AutonomousDriving-%23D00000.svg?style=for-the-badge&logo=AutonomousDriving&logoColor=white)
 ![SLAM](https://img.shields.io/badge/SLAM-%23EE4C2C.svg?style=for-the-badge&logo=SLAM&logoColor=white)
 ![ROBOTICS](https://img.shields.io/badge/ROBOTICS-%230A0FF9.svg?style=for-the-badge&logo=ROBOTICS&logoColor=white)
