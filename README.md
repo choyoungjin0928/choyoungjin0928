@@ -46,7 +46,8 @@
 
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![Xycar](https://img.shields.io/badge/-xycar-FCC624?style=for-the-badge&logo=amp)
+  ![NVIDIA TX2](https://img.shields.io/badge/-NVIDIATX2-FCC624?style=for-the-badge&logo=amp)
+  ![Jetson Nano](https://img.shields.io/badge/-JetsonNano-E95420?style=for-the-badge&logo=amp)
 <br>
 
 # PROJECTS
